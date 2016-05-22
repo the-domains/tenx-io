@@ -1,0 +1,28 @@
+name: TENx.io
+favicon: null
+layout_spectrum: 0.9211122221313417
+typography_spectrum: 0.7482846383936703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6653022377286106
+  lightness: 0.5371303295250982
+  saturation: 0.540188156766817
+  rhythmicContrast: 0.5281197731383145
+purpose: []
