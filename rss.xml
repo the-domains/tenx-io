@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TENx.io]]></title>
-        <description><![CDATA[TENx.io]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Growth Minded Podcast]]></title>
+        <description><![CDATA[The Growth Minded Podcast]]></description>
+        <link>https://thegrid.ai/tenx-io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 06:03:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 06:24:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tenx-io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52815eab-ed01-4021-ba03-f1dc05ee5bb8.jpg">]]></description>
-            <link>undefinedthe-growth-minded-podcast-is-here/index.html</link>
+            <title><![CDATA[The Growth Minded Podcast is Here!]]></title>
+            <description><![CDATA[<article><h1>The Growth Minded Podcast is Here!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7721a7cdf9a6c007e4eb0b90b22f1e5f468c48d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tenx-io/the-growth-minded-podcast-is-here/index.html</link>
             <guid isPermaLink="false">42c3c07d-0326-4c21-968d-4e51390e9a92</guid>
-            <pubDate>Sun, 22 May 2016 06:03:08 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 06:24:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
