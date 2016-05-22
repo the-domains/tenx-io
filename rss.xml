@@ -4,7 +4,7 @@
         <description><![CDATA[TEN | X | MKE]]></description>
         <link>https://thegrid.ai//tenxmke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 12:40:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai//tenxmke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEN | X | MKE is Here!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai//tenxmke/the-growth-minded-podcast-is-here/index.html</link>
             <guid isPermaLink="false">42c3c07d-0326-4c21-968d-4e51390e9a92</guid>
             <pubDate>Sun, 22 May 2016 06:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.inc.com/ilan-mochari/kevin-plank-under-armour-university-maryland-commencement-speech.html</p>]]></description>
+            <link>https://thegrid.ai//tenxmke/httpwwwinccomilan-mocharikevin-plank-under-armour-uni/index.html</link>
+            <guid isPermaLink="false">543f19b0-f6a3-4d1b-be3f-c3514b095cd4</guid>
+            <pubDate>Sun, 22 May 2016 12:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
